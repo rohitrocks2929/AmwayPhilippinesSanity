@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [dd_core.testCore]">
+  <test name="AmwayPH test(failed)">
+    <classes>
+      <class name="dd_tests.AmwayPH_Registration">
+        <methods>
+          <include name="init"/>
+          <include name="Register"/>
+        </methods>
+      </class> <!-- dd_tests.AmwayPH_Registration -->
+    </classes>
+  </test> <!-- AmwayPH test(failed) -->
+</suite> <!-- Failed suite [dd_core.testCore] -->

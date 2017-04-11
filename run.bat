@@ -1,0 +1,1 @@
+java -cp C:\AmwayPhilippinesSanity\AmwayPhilippines_Sanity_ddframework\bin;C:\AmwayPhilippinesSanity\AmwayPhilippines_Sanity_ddframework\lib\* org.testng.TestNG testng.xml
